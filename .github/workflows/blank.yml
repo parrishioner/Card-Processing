@@ -34,4 +34,9 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-
+  deployment:
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Run a one-line script
+        run: echo Deploying to production!
