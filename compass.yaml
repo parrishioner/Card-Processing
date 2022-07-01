@@ -1,0 +1,17 @@
+name: Card Processing
+id: 'ari:cloud:compass:ca4d6d1f-c9de-431f-9a40-6682e1968a11:component/925fb741-972c-4c62-ad75-b42e8d8b8606/08a30a84-4f0a-424e-9120-db111f09639e'
+description: Legacy card processing system. This will eventually be replaced by Jupiter Payment Gateway.
+ownerId: 'ari:cloud:teams::team/ba82bb13-ec0b-4279-9c0a-b81e0e191afe'
+fields:
+  tier: 1
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/parrishionergmail/Card-Processing'
+  - name: ''
+    type: CHAT_CHANNEL
+    url: 'https://parrishioner.slack.com/archives/C034UFJU0NA'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
