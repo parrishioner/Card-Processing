@@ -8,7 +8,7 @@ links:
   - name: null
     type: REPOSITORY
     url: 'https://github.com/parrishionergmail/Card-Processing'
-  - name: ''
+  - name: null
     type: CHAT_CHANNEL
     url: 'https://parrishioner.slack.com/archives/C034UFJU0NA'
 relationships: {}
